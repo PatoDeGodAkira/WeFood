@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_food_burger_bite.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/food_burger_bite.webp"
+    },
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_food_taco.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/food_taco.webp"
+    },
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_food_combo.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/food_combo.webp"
+    },
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_map_discovery.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/map_discovery.webp"
+    },
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_food_cutlet.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/food_cutlet.webp"
+    },
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_food_acai.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/food_acai.webp"
+    },
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_food_burger.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/food_burger.webp"
+    },
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_food_burger_close.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/food_burger_close.webp"
+    },
+    {
+        "merged": "com.wefood.app-debug-46:/drawable_map_tracking.webp.flat",
+        "source": "com.wefood.app-main-48:/drawable/map_tracking.webp"
+    }
+]

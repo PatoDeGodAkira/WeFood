@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+drawable food_acai
+drawable food_burger
+drawable food_burger_bite
+drawable food_burger_close
+drawable food_combo
+drawable food_cutlet
+drawable food_taco
+drawable map_discovery
+drawable map_tracking
+string app_name
+style Theme.WeFood
